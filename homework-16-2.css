@@ -67,7 +67,7 @@ button {
 .div-1:hover {
   background-color: #f72798;
   color: aliceblue;
-  transition: 0.5s;
+  transition: 0.4s;
   width: 26%;
 }
 .div-2:hover {
